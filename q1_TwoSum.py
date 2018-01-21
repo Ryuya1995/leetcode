@@ -4,18 +4,14 @@ class Solution:
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
-        
         One-pass Hash Table
         using the data structure dictionary
         """
         hash={}
-        for i in range(len(nums)):
-            x=nums[i];y=target-x
-            if y in hash:
-                return [hash[y],i]
-            else:
-                hash[x]=i
-        return "not found"
+        for i,x in enumerate(nums):
+            if target-x in hash:
+                return [hash[target-x],i]
+            hash[x]=i
 
 
 # p=Solution()
