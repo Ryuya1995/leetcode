@@ -2,32 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c8d62c3-c847-4a90-8f93-4920e8d0c60e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/q10_RegularExpressionMatching.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q11_ContainerWithMostWater.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q12_IntegertoRoman.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q13_RomantoInteger.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q14_LongestCommonPrefix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q15_3SUM.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q16_3SUMClosest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q17_PhoneNumber.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q18_4SUM.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q19_RemoveNthNode.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q20_ValidParentheses.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q21_MergeTwoSortedLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q22_GenerateParentheses.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q23_MergeKSortedLists.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q24_swapPairs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q26_Remove Duplicates from Sorted Array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q27_Remove Element.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q28_Implement strStr().py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q29.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q6_ZigZagConversion.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q7_ReverseInteger.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q8_StringtoInteger.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/q9_PalindromeNumber.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/q29_Divide Two Integers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/q30_Substring with Concatenation of All Words.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/q1_TwoSum.py" afterPath="$PROJECT_DIR$/q1_TwoSum.py" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change beforePath="$PROJECT_DIR$/q10_RegularExpressionMatching.py" afterPath="$PROJECT_DIR$/q10_RegularExpression Matching.py" />
+      <change beforePath="$PROJECT_DIR$/q11_ContainerWithMostWater.py" afterPath="$PROJECT_DIR$/q11_Container With Most Water.py" />
+      <change beforePath="$PROJECT_DIR$/q12_IntegertoRoman.py" afterPath="$PROJECT_DIR$/q12_Integer to Roman.py" />
+      <change beforePath="$PROJECT_DIR$/q13_RomantoInteger.py" afterPath="$PROJECT_DIR$/q13_Roman to Integer.py" />
+      <change beforePath="$PROJECT_DIR$/q14_LongestCommonPrefix.py" afterPath="$PROJECT_DIR$/q14_Longest Common Prefix.py" />
+      <change beforePath="$PROJECT_DIR$/q16_3SUMClosest.py" afterPath="$PROJECT_DIR$/q16_3SUM Closest.py" />
+      <change beforePath="$PROJECT_DIR$/q17_PhoneNumber.py" afterPath="$PROJECT_DIR$/q17_PhoneNumber.py" />
+      <change beforePath="$PROJECT_DIR$/q19_RemoveNthNode.py" afterPath="$PROJECT_DIR$/q19_Remove Nth Node.py" />
+      <change beforePath="$PROJECT_DIR$/q1_TwoSum.py" afterPath="$PROJECT_DIR$/q1_Two Sum.py" />
+      <change beforePath="$PROJECT_DIR$/q20_ValidParentheses.py" afterPath="$PROJECT_DIR$/q20_Valid Parentheses.py" />
+      <change beforePath="$PROJECT_DIR$/q21_MergeTwoSortedLists.py" afterPath="$PROJECT_DIR$/q21_Merge Two Sorted Lists.py" />
+      <change beforePath="$PROJECT_DIR$/q22_GenerateParentheses.py" afterPath="$PROJECT_DIR$/q22_Generate Parentheses.py" />
+      <change beforePath="$PROJECT_DIR$/q23_MergeKSortedLists.py" afterPath="$PROJECT_DIR$/q23_Merge K Sorted Lists.py" />
+      <change beforePath="$PROJECT_DIR$/q24_swapPairs.py" afterPath="$PROJECT_DIR$/q24_swap Pairs.py" />
+      <change beforePath="$PROJECT_DIR$/q29.py" afterPath="$PROJECT_DIR$/q25_Reverse Nodes in k-Group.py" />
+      <change beforePath="$PROJECT_DIR$/q2_AddTwoNumbers.py" afterPath="$PROJECT_DIR$/q2_Add Two Numbers.py" />
+      <change beforePath="$PROJECT_DIR$/q3_LongestSubstring.py" afterPath="$PROJECT_DIR$/q3_Longest Substring.py" />
+      <change beforePath="$PROJECT_DIR$/q4_MedianofTwoSortedArrays.py" afterPath="$PROJECT_DIR$/q4_Median of Two Sorted Arrays.py" />
+      <change beforePath="$PROJECT_DIR$/q5_LongestPalindromicSubstring.py" afterPath="$PROJECT_DIR$/q5_Longest Palindromic Substring.py" />
+      <change beforePath="$PROJECT_DIR$/q6_ZigZagConversion.py" afterPath="$PROJECT_DIR$/q6_ZigZag Conversion.py" />
+      <change beforePath="$PROJECT_DIR$/q7_ReverseInteger.py" afterPath="$PROJECT_DIR$/q7_Reverse Integer.py" />
+      <change beforePath="$PROJECT_DIR$/q8_StringtoInteger.py" afterPath="$PROJECT_DIR$/q8_String to Integer.py" />
+      <change beforePath="$PROJECT_DIR$/q9_PalindromeNumber.py" afterPath="$PROJECT_DIR$/q9_Palindrome Number.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +46,7 @@
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1516480044749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$q2_AddTwoNumbers.coverage" NAME="q2_AddTwoNumbers Coverage Results" MODIFIED="1516155049943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$q18_4SUM.coverage" NAME="q18_4SUM Coverage Results" MODIFIED="1516465506606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$q17_PhoneNumber.coverage" NAME="q17_PhoneNumber Coverage Results" MODIFIED="1516459788957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$q17_PhoneNumber.coverage" NAME="q17_PhoneNumber Coverage Results" MODIFIED="1516546378539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$q1_TwoSum.coverage" NAME="q1_TwoSum Coverage Results" MODIFIED="1516139294385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$q3_LongestSubstring.coverage" NAME="q3_LongestSubstring Coverage Results" MODIFIED="1516161744631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$q8_StringtoInteger.coverage" NAME="q8_StringtoInteger Coverage Results" MODIFIED="1516350943052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -59,38 +59,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q1_TwoSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+      <file leaf-file-name="q22_Generate Parentheses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q22_Generate Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q2_AddTwoNumbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q3_LongestSubstring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q3_LongestSubstring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q23_MergeKSortedLists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q23_MergeKSortedLists.py">
+      <file leaf-file-name="q23_Merge K Sorted Lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q23_Merge K Sorted Lists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -99,8 +79,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q24_swapPairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q24_swapPairs.py">
+      <file leaf-file-name="q24_swap Pairs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q24_swap Pairs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
@@ -139,21 +119,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q29.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/q29.py">
+      <file leaf-file-name="q29_Divide Two Integers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q29_Divide Two Integers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file leaf-file-name="q30_Substring with Concatenation of All Words.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/q30_Substring with Concatenation of All Words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q25_Reverse Nodes in k-Group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q25_Reverse Nodes in k-Group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="37" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q17_PhoneNumber.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q17_PhoneNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -195,7 +195,6 @@
         <option value="$PROJECT_DIR$/q13_RomantoInteger.py" />
         <option value="$PROJECT_DIR$/q14_LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/q16_3SUMCloset.py" />
-        <option value="$PROJECT_DIR$/q17_PhoneNumber.py" />
         <option value="$PROJECT_DIR$/q15_3SUM.py" />
         <option value="$PROJECT_DIR$/q18_4SUM.py" />
         <option value="$PROJECT_DIR$/q19_RemoveNthNode.py" />
@@ -203,7 +202,6 @@
         <option value="$PROJECT_DIR$/q20_ValidParentheses.py" />
         <option value="$PROJECT_DIR$/q21_MergeTwoSorted Lists.py" />
         <option value="$PROJECT_DIR$/q21_MergeTwoSortedLists.py" />
-        <option value="$PROJECT_DIR$/q22_GenerateParentheses.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/q23_MergeKSortedLists.py" />
         <option value="$PROJECT_DIR$/q24_swapPairs.py" />
@@ -212,6 +210,11 @@
         <option value="$PROJECT_DIR$/q27_Remove Element.py" />
         <option value="$PROJECT_DIR$/q28_Implement strStr().py" />
         <option value="$PROJECT_DIR$/q29.py" />
+        <option value="$PROJECT_DIR$/q22_GenerateParentheses.py" />
+        <option value="$PROJECT_DIR$/q17_PhoneNumber.py" />
+        <option value="$PROJECT_DIR$/q25_Reverse Nodes in k-Group.py" />
+        <option value="$PROJECT_DIR$/q29_Divide Two Integers.py" />
+        <option value="$PROJECT_DIR$/q30_Substring with Concatenation of All Words.py" />
       </list>
     </option>
   </component>
@@ -223,7 +226,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1145" />
+    <option name="width" value="1071" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -244,6 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,13 +259,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="PyCoverageOptionsProvider">
@@ -279,8 +282,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="q18_4SUM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.q17_PhoneNumber">
+    <configuration name="q17_PhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -293,7 +296,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q18_4SUM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q17_PhoneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +315,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q20_ValidParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q20_Valid Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +334,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q22_GenerateParentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q22_Generate Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +353,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q23_MergeKSortedLists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q23_Merge K Sorted Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,7 +372,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2_AddTwoNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2_Add Two Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,19 +399,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.q2_AddTwoNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q18_4SUM" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q20_ValidParentheses" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q22_GenerateParentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q23_MergeKSortedLists" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q20_ValidParentheses" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q22_GenerateParentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.q23_MergeKSortedLists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="5" class="java.lang.String" itemvalue="Python.q17_PhoneNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q23_MergeKSortedLists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q22_GenerateParentheses" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q20_ValidParentheses" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q18_4SUM" />
+        <item index="0" class="java.lang.String" itemvalue="Python.q17_PhoneNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q23_MergeKSortedLists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q22_GenerateParentheses" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q20_ValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -429,16 +432,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1145" height="947" extended-state="0" />
+    <frame x="0" y="23" width="1071" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3823884" sideWeight="0.50389105" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28377154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3148688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -484,28 +487,12 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="93" />
+      <option name="time" value="95" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q24_swapPairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
@@ -513,23 +500,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
+    <entry file="file://$PROJECT_DIR$/q2_Add Two Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q3_LongestSubstring.py">
+    <entry file="file://$PROJECT_DIR$/q3_Longest Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q5_LongestPalindromicSubstring.py">
+    <entry file="file://$PROJECT_DIR$/q5_Longest Palindromic Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
@@ -540,18 +525,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q4_MedianofTwoSortedArrays.py">
+    <entry file="file://$PROJECT_DIR$/q4_Median of Two Sorted Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -559,30 +543,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
+    <entry file="file://$PROJECT_DIR$/q2_Add Two Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q3_LongestSubstring.py">
+    <entry file="file://$PROJECT_DIR$/q3_Longest Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q4_MedianofTwoSortedArrays.py">
+    <entry file="file://$PROJECT_DIR$/q4_Median of Two Sorted Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q5_LongestPalindromicSubstring.py">
+    <entry file="file://$PROJECT_DIR$/q5_Longest Palindromic Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
@@ -593,11 +575,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -605,15 +586,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
+    <entry file="file://$PROJECT_DIR$/q2_Add Two Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
@@ -621,15 +601,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
+    <entry file="file://$PROJECT_DIR$/q2_Add Two Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -638,41 +617,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/q2_Add_Two_Numbers.py" />
-    <entry file="file://$PROJECT_DIR$/q4_MedianofTwoSortedArrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q7_ReverseInteger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q8_StringtoInteger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q5_LongestPalindromicSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q9_PalindromeNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/sre_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -680,52 +624,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q11_ContainerWithMostWater.py">
+    <entry file="file://$PROJECT_DIR$/venv/q_20.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q1_Two Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q2_Add Two Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q3_Longest Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q4_Median of Two Sorted Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q5_Longest Palindromic Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q6_ZigZag Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q7_Reverse Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q8_String to Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q9_Palindrome Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q10_RegularExpression Matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q11_Container With Most Water.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q12_IntegertoRoman.py">
+    <entry file="file://$PROJECT_DIR$/q12_Integer to Roman.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q10_RegularExpressionMatching.py">
+    <entry file="file://$PROJECT_DIR$/q13_Roman to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q13_RomantoInteger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="165">
           <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q14_LongestCommonPrefix.py">
+    <entry file="file://$PROJECT_DIR$/q14_Longest Common Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q17_PhoneNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q16_3SUMClosest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -736,22 +738,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/q16_3SUM Closest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/q18_4SUM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="-393">
           <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/q_20.py" />
-    <entry file="file://$PROJECT_DIR$/q19_RemoveNthNode.py">
+    <entry file="file://$PROJECT_DIR$/q19_Remove Nth Node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q20_ValidParentheses.py">
+    <entry file="file://$PROJECT_DIR$/q20_Valid Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="26" />
@@ -759,23 +767,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q6_ZigZagConversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q22_GenerateParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q21_MergeTwoSortedLists.py">
+    <entry file="file://$PROJECT_DIR$/q21_Merge Two Sorted Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
@@ -783,39 +775,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1_TwoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q3_LongestSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q2_AddTwoNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/q22_Generate Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q23_MergeKSortedLists.py">
+    <entry file="file://$PROJECT_DIR$/q23_Merge K Sorted Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
@@ -823,7 +791,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q24_swapPairs.py">
+    <entry file="file://$PROJECT_DIR$/q24_swap Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
@@ -855,10 +823,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q29.py">
+    <entry file="file://$PROJECT_DIR$/q17_PhoneNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q25_Reverse Nodes in k-Group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q29_Divide Two Integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q30_Substring with Concatenation of All Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding />
         </state>
       </provider>
