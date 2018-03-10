@@ -1,3 +1,6 @@
+import math
+
+
 class Solution:
     def getPermutation(self, n, k):
         """
@@ -6,8 +9,8 @@ class Solution:
         :rtype: str
         """
 
-        def inserti(self, i, j): #insert self[i] to j
-            self[j],self[j+1:i+1] = self[i],self[j:i]
+        def inserti(self, i, j):  # insert self[i] to j
+            self[j], self[j + 1:i + 1] = self[i], self[j:i]
 
         n_list = list(range(1, n + 1))
         x = [1]
@@ -24,12 +27,11 @@ class Solution:
             else:
                 j -= 1
 
-        i = n-1
+        i = n - 1
         while i >= 0:
-            if y[i]>0:
-                inserti(n_list,n-i-2+y[i],n-i-2)
+            if y[i] > 0:
+                inserti(n_list, n - i - 2 + y[i], n - i - 2)
             i -= 1
-
 
         return ''.join(str(e) for e in n_list)
 
@@ -48,7 +50,15 @@ class Solution:
                 m //= (i - 1)
         return res
 
-print(Solution().getPermutation(3,5))
+    def getPermutation2(self, n, k):
+        array = list(range(1, n + 1))
+        k = (k % math.factorial(n)) - 1
+        permutation = []
+        for i in range(n - 1, -1, -1):
+            idx, k = divmod(k, math.factorial(i))
+            permutation.append(array.pop(idx))
+
+        return "".join(map(str, permutation))
 
 
-
+print(Solution().getPermutation2(3, 5))
