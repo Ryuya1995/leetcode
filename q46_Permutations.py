@@ -35,4 +35,4 @@ class Solution:
 
 
 
-print(Solution().permute2([2, 3, 5]))
+print(Solution().permute2([1,2, 3,4]))
